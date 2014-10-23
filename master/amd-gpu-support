@@ -7,7 +7,7 @@ index c2db53b..03a4b7e 100644
   ****************************************************************/
  
 -static int S3ResumeVga;
-+int TESTS3ResumeVga;
++int S3ResumeVga; //TEST
  int ScreenAndDebug;
  struct rom_header *VgaROM;
  
